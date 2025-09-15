@@ -1,0 +1,31 @@
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ml-cert-project"
+version = "0.1.0"
+description = "Professional ML certificate project: Music Mood + YouTube Sentiment"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name = "Omar Eid"}]
+license = {text = "MIT"}
+dependencies = ["numpy","pandas","matplotlib","scikit-learn","joblib"]
+
+[project.optional-dependencies]
+dev = ["pytest","pytest-cov","tox","mypy","ruff","pylint","pre-commit"]
+
+[project.scripts]
+ml-mood-train = "ml_cert_project.mood.cli:train_cli"
+ml-mood-eval  = "ml_cert_project.mood.cli:eval_cli"
+ml-sent-train = "ml_cert_project.sentiment.cli:train_cli"
+ml-sent-eval  = "ml_cert_project.sentiment.cli:eval_cli"
+
+[tool.pytest.ini_options]
+addopts = "-q --cov=ml_cert_project --cov-report=term-missing"
+
+[tool.ruff]
+line-length = 100
+
+[tool.pylint]
+disable = ["C0114","C0115","C0116","R0903"]

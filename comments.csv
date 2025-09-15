@@ -1,0 +1,601 @@
+comment_id,video_id,author,text,label
+c1,v1,user1,Great job,positive
+c2,v2,user2,I dislike this.,negative
+c3,v3,user3,Ok,neutral
+c4,v4,user4,Amazing video!!,positive
+c5,v5,user5,Not helpful,negative
+c6,v6,user6,Interesting,neutral
+c7,v7,user7,Great job,positive
+c8,v1,user8,Waste of time.,negative
+c9,v2,user9,I have a question,neutral
+c10,v3,user10,Great job!,positive
+c11,v4,user11,Terrible explanation,negative
+c12,v5,user12,Update please,neutral
+c13,v6,user13,Thanks a lot,positive
+c14,v7,user14,Confusing content.,negative
+c15,v1,user15,When is the next video?,neutral
+c16,v2,user16,Great job!,positive
+c17,v3,user17,Terrible explanation,negative
+c18,v4,user18,Update please,neutral
+c19,v5,user19,Very helpful tutorial,positive
+c20,v6,user20,I dislike this.,negative
+c21,v7,user21,Interesting,neutral
+c22,v1,user22,Thanks a lot!,positive
+c23,v2,user23,Terrible explanation,negative
+c24,v3,user24,Interesting,neutral
+c25,v4,user25,Great job,positive
+c26,v5,user26,Waste of time.,negative
+c27,v6,user27,When is the next video?,neutral
+c28,v7,user28,Very helpful tutorial!,positive
+c29,v1,user29,Confusing content,negative
+c30,v2,user30,I have a question,neutral
+c31,v3,user31,Very helpful tutorial,positive
+c32,v4,user32,Not helpful.,negative
+c33,v5,user33,When is the next video?,neutral
+c34,v6,user34,Very helpful tutorial!,positive
+c35,v7,user35,Waste of time,negative
+c36,v1,user36,Interesting,neutral
+c37,v2,user37,Loved this content,positive
+c38,v3,user38,Not helpful.,negative
+c39,v4,user39,Update please,neutral
+c40,v5,user40,Thanks a lot!,positive
+c41,v6,user41,Terrible explanation,negative
+c42,v7,user42,When is the next video?,neutral
+c43,v1,user43,Great job,positive
+c44,v2,user44,I dislike this.,negative
+c45,v3,user45,When is the next video?,neutral
+c46,v4,user46,Loved this content!,positive
+c47,v5,user47,Confusing content,negative
+c48,v6,user48,I have a question,neutral
+c49,v7,user49,Loved this content,positive
+c50,v1,user50,I dislike this.,negative
+c51,v2,user1,Update please,neutral
+c52,v3,user2,Loved this content!,positive
+c53,v4,user3,Terrible explanation,negative
+c54,v5,user4,When is the next video?,neutral
+c55,v6,user5,Great job,positive
+c56,v7,user6,I dislike this.,negative
+c57,v1,user7,Interesting,neutral
+c58,v2,user8,Very helpful tutorial!,positive
+c59,v3,user9,Terrible explanation,negative
+c60,v4,user10,I have a question,neutral
+c61,v5,user11,Very helpful tutorial,positive
+c62,v6,user12,Not helpful.,negative
+c63,v7,user13,Ok,neutral
+c64,v1,user14,Amazing video!!,positive
+c65,v2,user15,Not helpful,negative
+c66,v3,user16,Ok,neutral
+c67,v4,user17,Amazing video!,positive
+c68,v5,user18,Not helpful.,negative
+c69,v6,user19,When is the next video?,neutral
+c70,v7,user20,Thanks a lot!,positive
+c71,v1,user21,Not helpful,negative
+c72,v2,user22,I have a question,neutral
+c73,v3,user23,Thanks a lot,positive
+c74,v4,user24,Not helpful.,negative
+c75,v5,user25,Update please,neutral
+c76,v6,user26,Thanks a lot!,positive
+c77,v7,user27,Terrible explanation,negative
+c78,v1,user28,Ok,neutral
+c79,v2,user29,Thanks a lot,positive
+c80,v3,user30,Waste of time.,negative
+c81,v4,user31,Interesting,neutral
+c82,v5,user32,Great job!,positive
+c83,v6,user33,Not helpful,negative
+c84,v7,user34,Update please,neutral
+c85,v1,user35,Very helpful tutorial,positive
+c86,v2,user36,Waste of time.,negative
+c87,v3,user37,Interesting,neutral
+c88,v4,user38,Great job!,positive
+c89,v5,user39,Waste of time,negative
+c90,v6,user40,I have a question,neutral
+c91,v7,user41,Amazing video!,positive
+c92,v1,user42,Not helpful.,negative
+c93,v2,user43,Interesting,neutral
+c94,v3,user44,Loved this content!,positive
+c95,v4,user45,Confusing content,negative
+c96,v5,user46,Interesting,neutral
+c97,v6,user47,Loved this content,positive
+c98,v7,user48,Confusing content.,negative
+c99,v1,user49,Interesting,neutral
+c100,v2,user50,Amazing video!!,positive
+c101,v3,user1,I dislike this,negative
+c102,v4,user2,Interesting,neutral
+c103,v5,user3,Very helpful tutorial,positive
+c104,v6,user4,Not helpful.,negative
+c105,v7,user5,Interesting,neutral
+c106,v1,user6,Great job!,positive
+c107,v2,user7,Not helpful,negative
+c108,v3,user8,Ok,neutral
+c109,v4,user9,Amazing video!,positive
+c110,v5,user10,Waste of time.,negative
+c111,v6,user11,Ok,neutral
+c112,v7,user12,Loved this content!,positive
+c113,v1,user13,Confusing content,negative
+c114,v2,user14,Interesting,neutral
+c115,v3,user15,Very helpful tutorial,positive
+c116,v4,user16,Not helpful.,negative
+c117,v5,user17,I have a question,neutral
+c118,v6,user18,Loved this content!,positive
+c119,v7,user19,Terrible explanation,negative
+c120,v1,user20,Interesting,neutral
+c121,v2,user21,Very helpful tutorial,positive
+c122,v3,user22,Waste of time.,negative
+c123,v4,user23,Interesting,neutral
+c124,v5,user24,Thanks a lot!,positive
+c125,v6,user25,Waste of time,negative
+c126,v7,user26,When is the next video?,neutral
+c127,v1,user27,Loved this content,positive
+c128,v2,user28,Not helpful.,negative
+c129,v3,user29,Update please,neutral
+c130,v4,user30,Great job!,positive
+c131,v5,user31,Confusing content,negative
+c132,v6,user32,Ok,neutral
+c133,v7,user33,Very helpful tutorial,positive
+c134,v1,user34,Confusing content.,negative
+c135,v2,user35,I have a question,neutral
+c136,v3,user36,Thanks a lot!,positive
+c137,v4,user37,Not helpful,negative
+c138,v5,user38,Update please,neutral
+c139,v6,user39,Thanks a lot,positive
+c140,v7,user40,Terrible explanation.,negative
+c141,v1,user41,Update please,neutral
+c142,v2,user42,Very helpful tutorial!,positive
+c143,v3,user43,Waste of time,negative
+c144,v4,user44,I have a question,neutral
+c145,v5,user45,Very helpful tutorial,positive
+c146,v6,user46,Terrible explanation.,negative
+c147,v7,user47,I have a question,neutral
+c148,v1,user48,Thanks a lot!,positive
+c149,v2,user49,I dislike this,negative
+c150,v3,user50,Update please,neutral
+c151,v4,user1,Thanks a lot,positive
+c152,v5,user2,Not helpful.,negative
+c153,v6,user3,Interesting,neutral
+c154,v7,user4,Very helpful tutorial!,positive
+c155,v1,user5,I dislike this,negative
+c156,v2,user6,Update please,neutral
+c157,v3,user7,Very helpful tutorial,positive
+c158,v4,user8,I dislike this.,negative
+c159,v5,user9,I have a question,neutral
+c160,v6,user10,Amazing video!!,positive
+c161,v7,user11,Waste of time,negative
+c162,v1,user12,When is the next video?,neutral
+c163,v2,user13,Loved this content,positive
+c164,v3,user14,I dislike this.,negative
+c165,v4,user15,When is the next video?,neutral
+c166,v5,user16,Amazing video!!,positive
+c167,v6,user17,Waste of time,negative
+c168,v7,user18,Interesting,neutral
+c169,v1,user19,Very helpful tutorial,positive
+c170,v2,user20,Not helpful.,negative
+c171,v3,user21,Update please,neutral
+c172,v4,user22,Thanks a lot!,positive
+c173,v5,user23,Not helpful,negative
+c174,v6,user24,I have a question,neutral
+c175,v7,user25,Very helpful tutorial,positive
+c176,v1,user26,Waste of time.,negative
+c177,v2,user27,When is the next video?,neutral
+c178,v3,user28,Loved this content!,positive
+c179,v4,user29,Not helpful,negative
+c180,v5,user30,Ok,neutral
+c181,v6,user31,Amazing video!,positive
+c182,v7,user32,Confusing content.,negative
+c183,v1,user33,Update please,neutral
+c184,v2,user34,Thanks a lot!,positive
+c185,v3,user35,I dislike this,negative
+c186,v4,user36,Ok,neutral
+c187,v5,user37,Very helpful tutorial,positive
+c188,v6,user38,Waste of time.,negative
+c189,v7,user39,Update please,neutral
+c190,v1,user40,Amazing video!!,positive
+c191,v2,user41,Terrible explanation,negative
+c192,v3,user42,Interesting,neutral
+c193,v4,user43,Loved this content,positive
+c194,v5,user44,Waste of time.,negative
+c195,v6,user45,Update please,neutral
+c196,v7,user46,Amazing video!!,positive
+c197,v1,user47,Terrible explanation,negative
+c198,v2,user48,Ok,neutral
+c199,v3,user49,Amazing video!,positive
+c200,v4,user50,Waste of time.,negative
+c201,v5,user1,When is the next video?,neutral
+c202,v6,user2,Amazing video!!,positive
+c203,v7,user3,I dislike this,negative
+c204,v1,user4,Ok,neutral
+c205,v2,user5,Loved this content,positive
+c206,v3,user6,I dislike this.,negative
+c207,v4,user7,Update please,neutral
+c208,v5,user8,Loved this content!,positive
+c209,v6,user9,Waste of time,negative
+c210,v7,user10,Interesting,neutral
+c211,v1,user11,Great job,positive
+c212,v2,user12,Not helpful.,negative
+c213,v3,user13,Interesting,neutral
+c214,v4,user14,Great job!,positive
+c215,v5,user15,Confusing content,negative
+c216,v6,user16,Interesting,neutral
+c217,v7,user17,Loved this content,positive
+c218,v1,user18,Not helpful.,negative
+c219,v2,user19,Interesting,neutral
+c220,v3,user20,Very helpful tutorial!,positive
+c221,v4,user21,Confusing content,negative
+c222,v5,user22,Interesting,neutral
+c223,v6,user23,Loved this content,positive
+c224,v7,user24,Waste of time.,negative
+c225,v1,user25,When is the next video?,neutral
+c226,v2,user26,Amazing video!!,positive
+c227,v3,user27,I dislike this,negative
+c228,v4,user28,Update please,neutral
+c229,v5,user29,Very helpful tutorial,positive
+c230,v6,user30,Not helpful.,negative
+c231,v7,user31,When is the next video?,neutral
+c232,v1,user32,Thanks a lot!,positive
+c233,v2,user33,I dislike this,negative
+c234,v3,user34,Ok,neutral
+c235,v4,user35,Thanks a lot,positive
+c236,v5,user36,I dislike this.,negative
+c237,v6,user37,Interesting,neutral
+c238,v7,user38,Loved this content!,positive
+c239,v1,user39,I dislike this,negative
+c240,v2,user40,Ok,neutral
+c241,v3,user41,Amazing video!,positive
+c242,v4,user42,Confusing content.,negative
+c243,v5,user43,Update please,neutral
+c244,v6,user44,Very helpful tutorial!,positive
+c245,v7,user45,Waste of time,negative
+c246,v1,user46,When is the next video?,neutral
+c247,v2,user47,Loved this content,positive
+c248,v3,user48,I dislike this.,negative
+c249,v4,user49,Ok,neutral
+c250,v5,user50,Loved this content!,positive
+c251,v6,user1,I dislike this,negative
+c252,v7,user2,When is the next video?,neutral
+c253,v1,user3,Thanks a lot,positive
+c254,v2,user4,Terrible explanation.,negative
+c255,v3,user5,I have a question,neutral
+c256,v4,user6,Great job!,positive
+c257,v5,user7,I dislike this,negative
+c258,v6,user8,Update please,neutral
+c259,v7,user9,Amazing video!,positive
+c260,v1,user10,I dislike this.,negative
+c261,v2,user11,Ok,neutral
+c262,v3,user12,Very helpful tutorial!,positive
+c263,v4,user13,Waste of time,negative
+c264,v5,user14,Update please,neutral
+c265,v6,user15,Thanks a lot,positive
+c266,v7,user16,Waste of time.,negative
+c267,v1,user17,I have a question,neutral
+c268,v2,user18,Thanks a lot!,positive
+c269,v3,user19,Waste of time,negative
+c270,v4,user20,When is the next video?,neutral
+c271,v5,user21,Great job,positive
+c272,v6,user22,Terrible explanation.,negative
+c273,v7,user23,Ok,neutral
+c274,v1,user24,Great job!,positive
+c275,v2,user25,I dislike this,negative
+c276,v3,user26,Ok,neutral
+c277,v4,user27,Thanks a lot,positive
+c278,v5,user28,Confusing content.,negative
+c279,v6,user29,When is the next video?,neutral
+c280,v7,user30,Great job!,positive
+c281,v1,user31,Not helpful,negative
+c282,v2,user32,When is the next video?,neutral
+c283,v3,user33,Great job,positive
+c284,v4,user34,Terrible explanation.,negative
+c285,v5,user35,I have a question,neutral
+c286,v6,user36,Amazing video!!,positive
+c287,v7,user37,Confusing content,negative
+c288,v1,user38,I have a question,neutral
+c289,v2,user39,Thanks a lot,positive
+c290,v3,user40,Terrible explanation.,negative
+c291,v4,user41,I have a question,neutral
+c292,v5,user42,Amazing video!!,positive
+c293,v6,user43,Confusing content,negative
+c294,v7,user44,Interesting,neutral
+c295,v1,user45,Loved this content,positive
+c296,v2,user46,Not helpful.,negative
+c297,v3,user47,I have a question,neutral
+c298,v4,user48,Amazing video!!,positive
+c299,v5,user49,I dislike this,negative
+c300,v6,user50,Interesting,neutral
+c301,v7,user1,Very helpful tutorial,positive
+c302,v1,user2,Waste of time.,negative
+c303,v2,user3,When is the next video?,neutral
+c304,v3,user4,Loved this content!,positive
+c305,v4,user5,Not helpful,negative
+c306,v5,user6,I have a question,neutral
+c307,v6,user7,Thanks a lot,positive
+c308,v7,user8,I dislike this.,negative
+c309,v1,user9,Ok,neutral
+c310,v2,user10,Loved this content!,positive
+c311,v3,user11,I dislike this,negative
+c312,v4,user12,Ok,neutral
+c313,v5,user13,Great job,positive
+c314,v6,user14,I dislike this.,negative
+c315,v7,user15,Update please,neutral
+c316,v1,user16,Loved this content!,positive
+c317,v2,user17,Not helpful,negative
+c318,v3,user18,Interesting,neutral
+c319,v4,user19,Great job,positive
+c320,v5,user20,Waste of time.,negative
+c321,v6,user21,Update please,neutral
+c322,v7,user22,Thanks a lot!,positive
+c323,v1,user23,Waste of time,negative
+c324,v2,user24,Ok,neutral
+c325,v3,user25,Great job,positive
+c326,v4,user26,I dislike this.,negative
+c327,v5,user27,I have a question,neutral
+c328,v6,user28,Amazing video!!,positive
+c329,v7,user29,Confusing content,negative
+c330,v1,user30,Interesting,neutral
+c331,v2,user31,Thanks a lot,positive
+c332,v3,user32,Waste of time.,negative
+c333,v4,user33,Update please,neutral
+c334,v5,user34,Great job!,positive
+c335,v6,user35,Not helpful,negative
+c336,v7,user36,Update please,neutral
+c337,v1,user37,Very helpful tutorial,positive
+c338,v2,user38,Terrible explanation.,negative
+c339,v3,user39,I have a question,neutral
+c340,v4,user40,Very helpful tutorial!,positive
+c341,v5,user41,Confusing content,negative
+c342,v6,user42,Ok,neutral
+c343,v7,user43,Great job,positive
+c344,v1,user44,Not helpful.,negative
+c345,v2,user45,Update please,neutral
+c346,v3,user46,Thanks a lot!,positive
+c347,v4,user47,Confusing content,negative
+c348,v5,user48,Ok,neutral
+c349,v6,user49,Great job,positive
+c350,v7,user50,Confusing content.,negative
+c351,v1,user1,I have a question,neutral
+c352,v2,user2,Loved this content!,positive
+c353,v3,user3,Confusing content,negative
+c354,v4,user4,When is the next video?,neutral
+c355,v5,user5,Loved this content,positive
+c356,v6,user6,Terrible explanation.,negative
+c357,v7,user7,Update please,neutral
+c358,v1,user8,Thanks a lot!,positive
+c359,v2,user9,I dislike this,negative
+c360,v3,user10,Interesting,neutral
+c361,v4,user11,Loved this content,positive
+c362,v5,user12,Terrible explanation.,negative
+c363,v6,user13,Ok,neutral
+c364,v7,user14,Amazing video!!,positive
+c365,v1,user15,Waste of time,negative
+c366,v2,user16,Ok,neutral
+c367,v3,user17,Great job,positive
+c368,v4,user18,Waste of time.,negative
+c369,v5,user19,When is the next video?,neutral
+c370,v6,user20,Great job!,positive
+c371,v7,user21,I dislike this,negative
+c372,v1,user22,Interesting,neutral
+c373,v2,user23,Thanks a lot,positive
+c374,v3,user24,I dislike this.,negative
+c375,v4,user25,Interesting,neutral
+c376,v5,user26,Loved this content!,positive
+c377,v6,user27,Terrible explanation,negative
+c378,v7,user28,Interesting,neutral
+c379,v1,user29,Great job,positive
+c380,v2,user30,Not helpful.,negative
+c381,v3,user31,I have a question,neutral
+c382,v4,user32,Amazing video!!,positive
+c383,v5,user33,Terrible explanation,negative
+c384,v6,user34,I have a question,neutral
+c385,v7,user35,Very helpful tutorial,positive
+c386,v1,user36,Terrible explanation.,negative
+c387,v2,user37,Update please,neutral
+c388,v3,user38,Great job!,positive
+c389,v4,user39,I dislike this,negative
+c390,v5,user40,When is the next video?,neutral
+c391,v6,user41,Loved this content,positive
+c392,v7,user42,Terrible explanation.,negative
+c393,v1,user43,Update please,neutral
+c394,v2,user44,Great job!,positive
+c395,v3,user45,I dislike this,negative
+c396,v4,user46,Ok,neutral
+c397,v5,user47,Amazing video!,positive
+c398,v6,user48,Confusing content.,negative
+c399,v7,user49,I have a question,neutral
+c400,v1,user50,Very helpful tutorial!,positive
+c401,v2,user1,I dislike this,negative
+c402,v3,user2,Ok,neutral
+c403,v4,user3,Great job,positive
+c404,v5,user4,I dislike this.,negative
+c405,v6,user5,Interesting,neutral
+c406,v7,user6,Thanks a lot!,positive
+c407,v1,user7,Waste of time,negative
+c408,v2,user8,Interesting,neutral
+c409,v3,user9,Loved this content,positive
+c410,v4,user10,Waste of time.,negative
+c411,v5,user11,I have a question,neutral
+c412,v6,user12,Very helpful tutorial!,positive
+c413,v7,user13,Terrible explanation,negative
+c414,v1,user14,Interesting,neutral
+c415,v2,user15,Amazing video!,positive
+c416,v3,user16,Not helpful.,negative
+c417,v4,user17,Ok,neutral
+c418,v5,user18,Great job!,positive
+c419,v6,user19,Confusing content,negative
+c420,v7,user20,Interesting,neutral
+c421,v1,user21,Amazing video!,positive
+c422,v2,user22,Confusing content.,negative
+c423,v3,user23,I have a question,neutral
+c424,v4,user24,Thanks a lot!,positive
+c425,v5,user25,Confusing content,negative
+c426,v6,user26,Update please,neutral
+c427,v7,user27,Amazing video!,positive
+c428,v1,user28,Confusing content.,negative
+c429,v2,user29,I have a question,neutral
+c430,v3,user30,Great job!,positive
+c431,v4,user31,I dislike this,negative
+c432,v5,user32,When is the next video?,neutral
+c433,v6,user33,Loved this content,positive
+c434,v7,user34,Confusing content.,negative
+c435,v1,user35,When is the next video?,neutral
+c436,v2,user36,Loved this content!,positive
+c437,v3,user37,Confusing content,negative
+c438,v4,user38,I have a question,neutral
+c439,v5,user39,Great job,positive
+c440,v6,user40,Terrible explanation.,negative
+c441,v7,user41,I have a question,neutral
+c442,v1,user42,Very helpful tutorial!,positive
+c443,v2,user43,Waste of time,negative
+c444,v3,user44,Interesting,neutral
+c445,v4,user45,Loved this content,positive
+c446,v5,user46,Terrible explanation.,negative
+c447,v6,user47,I have a question,neutral
+c448,v7,user48,Amazing video!!,positive
+c449,v1,user49,Confusing content,negative
+c450,v2,user50,Interesting,neutral
+c451,v3,user1,Amazing video!,positive
+c452,v4,user2,Confusing content.,negative
+c453,v5,user3,I have a question,neutral
+c454,v6,user4,Great job!,positive
+c455,v7,user5,Not helpful,negative
+c456,v1,user6,Interesting,neutral
+c457,v2,user7,Great job,positive
+c458,v3,user8,Not helpful.,negative
+c459,v4,user9,When is the next video?,neutral
+c460,v5,user10,Great job!,positive
+c461,v6,user11,Terrible explanation,negative
+c462,v7,user12,Update please,neutral
+c463,v1,user13,Very helpful tutorial,positive
+c464,v2,user14,Waste of time.,negative
+c465,v3,user15,I have a question,neutral
+c466,v4,user16,Amazing video!!,positive
+c467,v5,user17,I dislike this,negative
+c468,v6,user18,Ok,neutral
+c469,v7,user19,Great job,positive
+c470,v1,user20,Terrible explanation.,negative
+c471,v2,user21,Update please,neutral
+c472,v3,user22,Great job!,positive
+c473,v4,user23,Waste of time,negative
+c474,v5,user24,Ok,neutral
+c475,v6,user25,Amazing video!,positive
+c476,v7,user26,Terrible explanation.,negative
+c477,v1,user27,Interesting,neutral
+c478,v2,user28,Very helpful tutorial!,positive
+c479,v3,user29,I dislike this,negative
+c480,v4,user30,I have a question,neutral
+c481,v5,user31,Loved this content,positive
+c482,v6,user32,Confusing content.,negative
+c483,v7,user33,When is the next video?,neutral
+c484,v1,user34,Loved this content!,positive
+c485,v2,user35,Terrible explanation,negative
+c486,v3,user36,Update please,neutral
+c487,v4,user37,Very helpful tutorial,positive
+c488,v5,user38,I dislike this.,negative
+c489,v6,user39,Ok,neutral
+c490,v7,user40,Great job!,positive
+c491,v1,user41,Not helpful,negative
+c492,v2,user42,I have a question,neutral
+c493,v3,user43,Loved this content,positive
+c494,v4,user44,Not helpful.,negative
+c495,v5,user45,I have a question,neutral
+c496,v6,user46,Amazing video!!,positive
+c497,v7,user47,Terrible explanation,negative
+c498,v1,user48,When is the next video?,neutral
+c499,v2,user49,Great job,positive
+c500,v3,user50,Terrible explanation.,negative
+c501,v4,user1,Update please,neutral
+c502,v5,user2,Thanks a lot!,positive
+c503,v6,user3,Terrible explanation,negative
+c504,v7,user4,Interesting,neutral
+c505,v1,user5,Thanks a lot,positive
+c506,v2,user6,Not helpful.,negative
+c507,v3,user7,I have a question,neutral
+c508,v4,user8,Great job!,positive
+c509,v5,user9,Terrible explanation,negative
+c510,v6,user10,When is the next video?,neutral
+c511,v7,user11,Very helpful tutorial,positive
+c512,v1,user12,Not helpful.,negative
+c513,v2,user13,Ok,neutral
+c514,v3,user14,Thanks a lot!,positive
+c515,v4,user15,Confusing content,negative
+c516,v5,user16,When is the next video?,neutral
+c517,v6,user17,Great job,positive
+c518,v7,user18,Waste of time.,negative
+c519,v1,user19,When is the next video?,neutral
+c520,v2,user20,Amazing video!!,positive
+c521,v3,user21,I dislike this,negative
+c522,v4,user22,Ok,neutral
+c523,v5,user23,Amazing video!,positive
+c524,v6,user24,Terrible explanation.,negative
+c525,v7,user25,I have a question,neutral
+c526,v1,user26,Very helpful tutorial!,positive
+c527,v2,user27,Not helpful,negative
+c528,v3,user28,Ok,neutral
+c529,v4,user29,Loved this content,positive
+c530,v5,user30,Waste of time.,negative
+c531,v6,user31,Interesting,neutral
+c532,v7,user32,Great job!,positive
+c533,v1,user33,Not helpful,negative
+c534,v2,user34,Interesting,neutral
+c535,v3,user35,Amazing video!,positive
+c536,v4,user36,Terrible explanation.,negative
+c537,v5,user37,Interesting,neutral
+c538,v6,user38,Amazing video!!,positive
+c539,v7,user39,Not helpful,negative
+c540,v1,user40,Update please,neutral
+c541,v2,user41,Very helpful tutorial,positive
+c542,v3,user42,Terrible explanation.,negative
+c543,v4,user43,I have a question,neutral
+c544,v5,user44,Loved this content!,positive
+c545,v6,user45,Not helpful,negative
+c546,v7,user46,I have a question,neutral
+c547,v1,user47,Loved this content,positive
+c548,v2,user48,Terrible explanation.,negative
+c549,v3,user49,When is the next video?,neutral
+c550,v4,user50,Very helpful tutorial!,positive
+c551,v5,user1,Not helpful,negative
+c552,v6,user2,When is the next video?,neutral
+c553,v7,user3,Very helpful tutorial,positive
+c554,v1,user4,Confusing content.,negative
+c555,v2,user5,Update please,neutral
+c556,v3,user6,Very helpful tutorial!,positive
+c557,v4,user7,Terrible explanation,negative
+c558,v5,user8,When is the next video?,neutral
+c559,v6,user9,Loved this content,positive
+c560,v7,user10,Not helpful.,negative
+c561,v1,user11,Interesting,neutral
+c562,v2,user12,Great job!,positive
+c563,v3,user13,Terrible explanation,negative
+c564,v4,user14,Ok,neutral
+c565,v5,user15,Loved this content,positive
+c566,v6,user16,Waste of time.,negative
+c567,v7,user17,I have a question,neutral
+c568,v1,user18,Great job!,positive
+c569,v2,user19,Waste of time,negative
+c570,v3,user20,Interesting,neutral
+c571,v4,user21,Great job,positive
+c572,v5,user22,Waste of time.,negative
+c573,v6,user23,When is the next video?,neutral
+c574,v7,user24,Amazing video!!,positive
+c575,v1,user25,I dislike this,negative
+c576,v2,user26,Interesting,neutral
+c577,v3,user27,Very helpful tutorial,positive
+c578,v4,user28,Confusing content.,negative
+c579,v5,user29,Update please,neutral
+c580,v6,user30,Thanks a lot!,positive
+c581,v7,user31,I dislike this,negative
+c582,v1,user32,Interesting,neutral
+c583,v2,user33,Very helpful tutorial,positive
+c584,v3,user34,Terrible explanation.,negative
+c585,v4,user35,Ok,neutral
+c586,v5,user36,Great job!,positive
+c587,v6,user37,Terrible explanation,negative
+c588,v7,user38,I have a question,neutral
+c589,v1,user39,Great job,positive
+c590,v2,user40,Waste of time.,negative
+c591,v3,user41,When is the next video?,neutral
+c592,v4,user42,Amazing video!!,positive
+c593,v5,user43,Not helpful,negative
+c594,v6,user44,Interesting,neutral
+c595,v7,user45,Great job,positive
+c596,v1,user46,Waste of time.,negative
+c597,v2,user47,Update please,neutral
+c598,v3,user48,Thanks a lot!,positive
+c599,v4,user49,Terrible explanation,negative
+c600,v5,user50,Update please,neutral
